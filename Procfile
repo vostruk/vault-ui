@@ -1,1 +1,1 @@
-web: yarn run dev-pack & yarn start
+web: node server.js
